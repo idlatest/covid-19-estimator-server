@@ -1,0 +1,2 @@
+POST 		 /api/v1/on-covid-19 		 200 		 7ms 
+POST 		 /api/v1/on-covid-19/xml 		 200 		 1ms 
